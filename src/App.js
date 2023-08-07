@@ -15,10 +15,10 @@ const App = ()=> {
 <WhatGPT3/>
 <Feature/>
 
-<Blog/>
 <CTA/>
 <Features/>
 <Possibility/>
+<Blog/>
 <Footer/>
 
     </div>
